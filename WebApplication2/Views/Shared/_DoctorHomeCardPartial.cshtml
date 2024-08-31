@@ -1,0 +1,23 @@
+﻿@model DoctorDto
+
+<div class="col">
+    <div class="card h-100">
+        <img height="130" src="@Model.ImageUrl" class="card-img-top" alt="@Model.Name">
+        <div class="card-body">
+            <h5 class="card-title">
+                <a asp-controller="Doctors" asp-action="Details" asp-route-id="@Model.Id">@Model.Name</a>
+            </h5>
+            <p class="card-text">
+                @Model.CategoryName?<br />
+                @* Left: @Model.Quantity *@
+            </p>
+            <a asp-controller="Orders" asp-action="Create" asp-route-doctorId="@Model.Id" class="btn btn-success mt-3">Confirm</a>
+@*            <a asp-controller="Doctors" asp-action="Add" asp-route-id="@Model.Id" asp-route-returnUrl="@Context.Request.Path" class="btn btn-primary">Add to Cart</a>
+ *@        </div>
+       @*  <div class="card-footer">
+            <small class="text-muted">
+                Price: <span class="badge bg-secondary">@Model.Price$</span>
+            </small>
+        </div> *@
+    </div>
+</div>

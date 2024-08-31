@@ -1,0 +1,868 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830164706_creat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240830164706_creat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830164545_creat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240830164545_creat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\shared\\_doctorhomecardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_doctorhomecardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\core\\interfaces\\iordersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iordersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\core\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|solutionrelative:core\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|solutionrelative:data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\seedextensions\\seedextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\seedextensions\\seedextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\core\\interfaces\\ifileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|solutionrelative:core\\interfaces\\ifileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\core\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|solutionrelative:core\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|solutionrelative:data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\data\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|solutionrelative:data\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830155145_createZvazocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240830155145_createZvazocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|solutionrelative:data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830154816_createZvazoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240830154816_createZvazoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Olenuk/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\core\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|solutionrelative:core\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\core\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|solutionrelative:core\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\core\\mapperprofiles\\appprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|solutionrelative:core\\mapperprofiles\\appprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\controllers\\probuctscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\probuctscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\doctors\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\doctors\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\core\\validations\\doctorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB098FA6-AF2B-4F99-A204-520ECD8D4D99}|Core\\Core.csproj|solutionrelative:core\\validations\\doctorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\login\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\login\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\home\\biography.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\biography.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\home\\fact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\fact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\doctors\\archive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\doctors\\archive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\data\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|solutionrelative:data\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Olenuk/True/SqlTable/dbo.Doctors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A1ED0B1-1B22-4861-8E99-A9CACDCB5811}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\comand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\comand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\controllers\\comandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\comandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\desktop\\29.08.2024\\webapplication2\\webapplication2\\views\\home\\life.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{464AB7AA-51C0-44D0-B272-BFE7ACCFFC2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\life.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240830164706_creat.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830164706_creat.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240830164706_creat.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830164706_creat.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240830164706_creat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T16:47:06.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240830164545_creat.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830164545_creat.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240830164545_creat.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830164545_creat.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240830164545_creat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T16:45:46.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Services\\OrderService.cs",
+              "RelativeToolTip": "Core\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:20:47.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrdersServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Interfaces\\IOrdersServices.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IOrdersServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Interfaces\\IOrdersServices.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IOrdersServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:17:29.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:23:51.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAADwv3gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:21:17.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T16:27:27.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T16:53:08.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:06:30.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T17:21:09.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:21:43.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_DoctorHomeCardPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Shared\\_DoctorHomeCardPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_DoctorHomeCardPartial.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Shared\\_DoctorHomeCardPartial.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_DoctorHomeCardPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T16:45:16.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Entities\\Order.cs",
+              "RelativeToolTip": "Data\\Entities\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:56:11.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFileServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Interfaces\\IFileServices.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IFileServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Interfaces\\IFileServices.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IFileServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:33:46.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Services\\FileService.cs",
+              "RelativeToolTip": "Core\\Services\\FileService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:32:34.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Entities\\Category.cs",
+              "RelativeToolTip": "Data\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:53:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T16:53:32.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "Data\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:54:07.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Data\\Entities\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:54:02.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\MapperProfiles\\AppProfile.cs",
+              "RelativeDocumentMoniker": "Core\\MapperProfiles\\AppProfile.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\MapperProfiles\\AppProfile.cs",
+              "RelativeToolTip": "Core\\MapperProfiles\\AppProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:55:16.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:40:28.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SeedExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\SeedExtensions\\SeedExtensions.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\SeedExtensions\\SeedExtensions.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\SeedExtensions\\SeedExtensions.cs",
+              "RelativeToolTip": "WebApplication2\\SeedExtensions\\SeedExtensions.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA9wCUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:19:53.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240830154816_createZvazoc.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830154816_createZvazoc.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240830154816_createZvazoc.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830154816_createZvazoc.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240830154816_createZvazoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:48:16.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240830155145_createZvazocs.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830155145_createZvazocs.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240830155145_createZvazocs.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Migrations\\20240830155145_createZvazocs.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240830155145_createZvazocs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:51:45.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Olenuk/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-30T15:42:06.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Core\\Dtos\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "Core\\Dtos\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:27:09.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProbuctsController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\ProbuctsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProbuctsController.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\ProbuctsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProbuctsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:28:43.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Dtos\\DoctorDto.cs",
+              "RelativeDocumentMoniker": "Core\\Dtos\\DoctorDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Dtos\\DoctorDto.cs",
+              "RelativeToolTip": "Core\\Dtos\\DoctorDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:50:42.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:46:42.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApplication2\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApplication2\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-12T17:41:39.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T16:52:46.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T17:41:10.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T17:52:40.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:01:50.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T16:00:04.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DoctorValidator.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Validations\\DoctorValidator.cs",
+              "RelativeDocumentMoniker": "Core\\Validations\\DoctorValidator.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Core\\Validations\\DoctorValidator.cs",
+              "RelativeToolTip": "Core\\Validations\\DoctorValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:55:46.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Doctors\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Doctors\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Doctors\\Upsert.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Doctors\\Upsert.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T17:27:29.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAYwLUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:03:43.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Biography.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Home\\Biography.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Biography.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Home\\Biography.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Biography.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:16:46.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Fact.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Home\\Fact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Fact.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Home\\Fact.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Fact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:38:26.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T16:52:56.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Archive.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Doctors\\Archive.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Doctors\\Archive.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Doctors\\Archive.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Doctors\\Archive.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T16:57:17.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Login\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Login\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Login\\Upsert.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Login\\Upsert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T17:44:17.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T16:51:20.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T16:52:54.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Data\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Data\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Data\\HospitalDbContext.cs",
+              "RelativeToolTip": "Data\\Data\\HospitalDbContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:51:15.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "dbo.Doctors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Olenuk/True/SqlTable/dbo.Doctors.sql",
+              "ToolTip": "dbo.Doctors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-14T17:23:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T17:02:39.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.csproj",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2\\WebApplication2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T17:25:05.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Comand\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Comand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Comand\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Comand\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T17:35:26.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ComandController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\ComandController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ComandController.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Controllers\\ComandController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ComandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwBQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:14:49.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Life.cshtml",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Home\\Life.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Life.cshtml",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.08.2024\\WebApplication2\\WebApplication2\\Views\\Home\\Life.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Life.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:34:00.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

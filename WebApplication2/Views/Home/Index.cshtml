@@ -1,0 +1,25 @@
+﻿@* @{
+    ViewData["Title"] = "Home Page";
+}
+ *@
+@using Core.Dtos
+@using Data.Entities
+@model List<DoctorDto>;
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 home-product-list">
+        @foreach (var i in Model)
+        {
+           <partial name="_DoctorHomeCardPartial" model="@i" />
+        }
+    </div>
+</div>
